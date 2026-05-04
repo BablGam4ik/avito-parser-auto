@@ -1,0 +1,38 @@
+name: Auto-update apartments from Avito
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Run parser
+        run: python avito_parser_auto.py
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add avito_apartments.json
+          git diff --cached --quiet || git commit -m "🤖 Avito data updated [skip ci]"
+          git push
