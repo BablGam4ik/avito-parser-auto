@@ -13,4 +13,3 @@ __pycache__/
 *.pyo
 *.db
 .DS_Store
-avito_apartments.json
