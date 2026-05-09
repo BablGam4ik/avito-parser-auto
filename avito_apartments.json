@@ -1,1 +1,402 @@
-[]
+[
+  {
+    "title": "1-к. квартира, 32,1 м², 6/25 эт.",
+    "price": 75000,
+    "price_raw": "75 000 ₽ в месяц",
+    "address": "Люблинская ул., 72Ак1\nДепо, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_321_m_625_et._7621473629?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://90.img.avito.st/image/1/1.w_xxCLa-bxVnqM0UeyfhjRypbRPDv2sVw9gOH88LbrfEq20.vmo4zknDFc55_e_h3KlZq0PVzjCQSWHkcAkpQjPwJNs"
+  },
+  {
+    "title": "2-к. квартира, 43,5 м², 4/21 эт.",
+    "price": 135000,
+    "price_raw": "135 000 ₽ в месяц",
+    "address": "ул. Нижние Мнёвники, 9\nТерехово, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_435_m_421_et._7948738916?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://c20.img.avito.st/image/1/1.PCUB7ba-kMwXTTLNdfU1Oz1NksqzWpTMsz3xxr_ukW60TpI.NaTfgAuzNkevqYZ5XwlWz0TmfpPVir7A5PPuKjlLwg0?cqp=2.U5qO8d4CHIiNW2QBtZw-uX6ewmB-LGaDE3-rkUTl5s3E6YkLER2eWpxBXXm-uAtjIUjyebQ7nSoGxTRjJ3W_erzY_jCAaA=="
+  },
+  {
+    "title": "Квартира-студия, 23,1 м², 1/5 эт.",
+    "price": 49500,
+    "price_raw": "49 500 ₽ в месяц",
+    "address": "ул. Егора Абакумова, 2\nБабушкинская, от 31 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/kvartira-studiya_231_m_15_et._8129194035?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://30.img.avito.st/image/1/1.9deGN7a-WT6Ql_s_4HyGkryXWzg0gF0-NOc4NDg0WJwzlFs.n8a5_TfcHi-Jrdiv1q0sH1-6WhregEMlOvVBAA6Rolw?cqp=2.U5qO8d4CHIiNW2QBtZw-uX6ewmB-LGaDE3-rkUTl5s3E6YkLER2eWpxBXXm-uAtjIUjyebQ7nSoGxTRjJ3W_erzY_jCAaA=="
+  },
+  {
+    "title": "2-к. квартира, 41 м², 1/5 эт.",
+    "price": 60000,
+    "price_raw": "60 000 ₽ в месяц",
+    "address": "Сеславинская ул., 26\nБагратионовская, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_41_m_15_et._8034628155?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://00.img.avito.st/image/1/1.WadkcLa-9U5y0FdPWjFz6lrQ90jWx_FO1qCURNpz9OzR0_c.Ps5wGeXFywH1wy6VLmJ8OK8RKkVN2nY7Mx6hQhRgjNU?cqp=2.U5qO8d4CHIiNW2QBtZw-uX6ewmB-LGaDE3-rkUTl5s3E6YkLER2eWpxBXXm-uAtjIUjyebQ7nSoGxTRjJ3W_erzY_jCAaA=="
+  },
+  {
+    "title": "Апартаменты-студия, 20 м², 1/5 эт.",
+    "price": 35000,
+    "price_raw": "35 000 ₽ в месяц",
+    "address": "ул. Артюхиной, 6к2\nТекстильщики, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/apartamenty-studiya_20_m_15_et._8002398437?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://30.img.avito.st/image/1/1.m97Vu7a-NzfDG5U2742k4OcbNTFnDDM3Z2tWPWu4NpVgGDU.fb8ibRPSi1v1uqY-K7ugPTMGr1pXF9etv5bg14KV82U?cqp=2.U5qO8d4CHIiNW2QBtZw-uX6ewmB-LGaDE3-rkUTl5s3E6YkLER2eWpxBXXm-uAtjIUjyebQ7nSoGxTRjJ3W_erzY_jCAaA=="
+  },
+  {
+    "title": "3-к. квартира, 117 м², 15/26 эт.",
+    "price": 250000,
+    "price_raw": "250 000 ₽ в месяц",
+    "address": "пр. Берёзовой Рощи, 12\nЦСКА, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_117_m_1526_et._8066358688?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://40.img.avito.st/image/1/1.6bxsr7a-RVV6D-dUMpiu41MPR1PeGEFV3n8kX9KsRPfZDEc.arkVEf2KIm75OR8ADVKBl1sOqu-_WyI-PnSH63tgOI8"
+  },
+  {
+    "title": "2-к. квартира, 44,2 м², 5/9 эт.",
+    "price": 67000,
+    "price_raw": "67 000 ₽ в месяц",
+    "address": "Соловьиный пр., 8\nЯсенево, 16–20 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_442_m_59_et._7975971245?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. квартира, 58 м², 4/20 эт.",
+    "price": 135000,
+    "price_raw": "135 000 ₽ в месяц",
+    "address": "3-я Хорошёвская ул., 19А\nЗорге, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_58_m_420_et._8089038594?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://00.img.avito.st/image/1/1.TWe31La5946BdWOOoYEmLNh144gFUWOOAX3BjAF394w.z3B_7uomsPMusWzrXAQjcrvCkBzZ4dt7dMGLlbVjuM8?cqp=2.pGdjs5fBvl5-fB-fm84xxYDAkt8GM2Wgr1fOyxua9Q=="
+  },
+  {
+    "title": "1-к. квартира, 40 м², 5/5 эт.",
+    "price": 47000,
+    "price_raw": "47 000 ₽ в месяц",
+    "address": "ул. Свободы, 19/1\nТушинская, 16–20 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_40_m_55_et._8038724941?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. квартира, 60,9 м², 9/24 эт.",
+    "price": 19000000,
+    "price_raw": "19 000 000 ₽",
+    "address": "Каширское ш., 144к1\nДомодедовская, 16–20 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_609_m_924_et._7997981820?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "3-к. квартира, 62,3 м², 5/5 эт.",
+    "price": 22000000,
+    "price_raw": "22 000 000 ₽",
+    "address": "пр-т Мира, 78А\nРижская, до 5 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_623_m_55_et._7993656502?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://10.img.avito.st/image/1/1.v1yh07a6BbWXcpG10-maQ3pwFbMx8BO3HVIRtxdkEQ.Dh_yQ7oSjsczx0afQ8ToWCGEoYrUG_HfM9OwlhL_LkQ?cqp=2.pGdjs5fBvl5-fB-fm84xxYDAkt8GM2Wgr1fOyxua9Q=="
+  },
+  {
+    "title": "2-к. квартира, 47 м², 11/14 эт.",
+    "price": 80000,
+    "price_raw": "80 000 ₽ в месяц",
+    "address": "ул. Генерала Глаголева, 13к2\nНародное Ополчение, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_47_m_1114_et._8089735971?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "3-к. квартира, 85 м², 19/40 эт.",
+    "price": 265000,
+    "price_raw": "265 000 ₽ в месяц",
+    "address": "б-р Братьев Весниных, 1\nЗИЛ, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_85_m_1940_et._8104977995?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. квартира, 56,9 м², 8/28 эт.",
+    "price": 145000,
+    "price_raw": "145 000 ₽ в месяц",
+    "address": "Волоколамское ш., 95/2к5\nТрикотажная, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_569_m_828_et._7416564460?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. квартира, 43,3 м², 2/5 эт.",
+    "price": 75000,
+    "price_raw": "75 000 ₽ в месяц",
+    "address": "ул. Василисы Кожиной, 16к2\nФилёвский парк, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_433_m_25_et._7966083719?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 31,9 м², 9/33 эт.",
+    "price": 75000,
+    "price_raw": "75 000 ₽ в месяц",
+    "address": "пр. Стройкомбината, 1\nОчаково, до 5 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_319_m_933_et._8017361386?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://90.img.avito.st/image/1/1.-P4Xf7a-VBcB3_YWa3CdrS3fVhGlyFAXpa81Hal8VbWi3FY.yY8QF77gfPzRZWQDS5cltgCEs9kjQBSUkTZ6ctvRwH4"
+  },
+  {
+    "title": "1-к. квартира, 39 м², 18/25 эт.",
+    "price": 16200000,
+    "price_raw": "16 200 000 ₽",
+    "address": "Саларьевская ул., 10к1\nСаларьево, 16–20 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_39_m_1825_et._2259611837?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 32 м², 24/33 эт.",
+    "price": 75000,
+    "price_raw": "75 000 ₽ в месяц",
+    "address": "2-й Нагатинский пр., 6к1\nНагатинская, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_32_m_2433_et._8017058602?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://q30.img.avito.st/image/1/1.Ra-e9La-6UaIVEtHmIF126RU60AsQ-1GLCSITCD36OQrV-s.cs-6QPy6zrHOwuYP-7ks5eGmfvi7rmmXMbSKzt1j7tE?cqp=2.U5qO8d4CHIiNW2QBtZw-uX6ewmB-LGaDE3-rkUTl5s3E6YkLER2eWpxBXXm-uAtjIUjyebQ7nSoGxTRjJ3W_erzY_jCAaA=="
+  },
+  {
+    "title": "1-к. квартира, 45 м², 13/18 эт.",
+    "price": 85000,
+    "price_raw": "85 000 ₽ в месяц",
+    "address": "Корабельная ул., 5А\nНагатинский затон, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_45_m_1318_et._8034125704?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "3-к. квартира, 70 м², 4/6 эт.",
+    "price": 100000,
+    "price_raw": "100 000 ₽ в месяц",
+    "address": "Октябрьская ул., 38к1\nМарьина Роща, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_70_m_46_et._2599887348?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "Апартаменты-студия, 17 м², 2/4 эт.",
+    "price": 70000,
+    "price_raw": "70 000 ₽ в месяц",
+    "address": "ул. Покровка, 29\nЧистые пруды, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/apartamenty-studiya_17_m_24_et._7784522245?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "3-к. квартира, 72 м², 32/34 эт.",
+    "price": 125000,
+    "price_raw": "125 000 ₽ в месяц",
+    "address": "Малая Очаковская ул., 4Ак2\nОзёрная, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_72_m_3234_et._3869196304?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "3-к. квартира, 78 м², 8/8 эт.",
+    "price": 27999999,
+    "price_raw": "27 999 999 ₽",
+    "address": "ул. Маршала Василевского, 5к1\nЩукинская, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_78_m_88_et._8089826160?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://10.img.avito.st/image/1/1.v1yh07a6BbWXcpG10-maQ3pwFbMx8BO3HVIRtxdkEQ.Dh_yQ7oSjsczx0afQ8ToWCGEoYrUG_HfM9OwlhL_LkQ?cqp=2.pGdjs5fBvl5-fB-fm84xxYDAkt8GM2Wgr1fOyxua9Q=="
+  },
+  {
+    "title": "Апартаменты-студия, 29,8 м², 20/21 эт.",
+    "price": 78800,
+    "price_raw": "78 800 ₽ в месяц",
+    "address": "3-я Хорошёвская ул., 17А\nЗорге, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/apartamenty-studiya_298_m_2021_et._7961438146?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "Апартаменты-студия, 25 м², 4/5 эт.",
+    "price": 64000,
+    "price_raw": "64 000 ₽ в месяц",
+    "address": "2-й Амбулаторный пр., 8с1\nКрасный Балтиец, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/apartamenty-studiya_25_m_45_et._4321781227?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. квартира, 59,4 м², 3/15 эт.",
+    "price": 35000000,
+    "price_raw": "35 000 000 ₽",
+    "address": "ул. Ремизова, 11к2\nНагорная, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_594_m_315_et._7951483057?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "3-к. квартира, 78 м², 6/25 эт.",
+    "price": 75000,
+    "price_raw": "75 000 ₽ в месяц",
+    "address": "Рп. Бутово, жилой комплекс Бутово Парк, 4\nБутово, 16–20 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_78_m_625_et._8127012114?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 35 м², 10/14 эт.",
+    "price": 130000,
+    "price_raw": "130 000 ₽ в месяц",
+    "address": "Большой Строченовский пер., 9\nПавелецкая, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_35_m_1014_et._7987877159?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 38,8 м², 37/42 эт.",
+    "price": 90000,
+    "price_raw": "90 000 ₽ в месяц",
+    "address": "Амурская ул., 1Ак4\nЛокомотив, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_388_m_3742_et._7499102097?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "Квартира-студия, 32,3 м², 27/28 эт.",
+    "price": 85000,
+    "price_raw": "85 000 ₽ в месяц",
+    "address": "Каширский пр., 25к2\nВаршавская, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/kvartira-studiya_323_m_2728_et._8064058338?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. квартира, 30 м², 15/16 эт.",
+    "price": 13000000,
+    "price_raw": "13 000 000 ₽",
+    "address": "Рязанский пр-т, 5\nНижегородская, до 5 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_30_m_1516_et._7257503096?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://10.img.avito.st/image/1/1.v1yh07a6BbWXcpG10-maQ3pwFbMx8BO3HVIRtxdkEQ.Dh_yQ7oSjsczx0afQ8ToWCGEoYrUG_HfM9OwlhL_LkQ?cqp=2.pGdjs5fBvl5-fB-fm84xxYDAkt8GM2Wgr1fOyxua9Q=="
+  },
+  {
+    "title": "1-к. квартира, 33 м², 4/5 эт.",
+    "price": 67000,
+    "price_raw": "67 000 ₽ в месяц",
+    "address": "ул. Шухова, 6\nШаболовская, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_33_m_45_et._7976832978?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "Квартира-студия, 23,4 м², 18/33 эт.",
+    "price": 46000,
+    "price_raw": "46 000 ₽ в месяц",
+    "address": "2-й Нагатинский пр., 6к1\nНагатинская, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/kvartira-studiya_234_m_1833_et._7964949975?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "Апартаменты-студия, 10 м², 2/18 эт.",
+    "price": 29000,
+    "price_raw": "29 000 ₽ в месяц",
+    "address": "Южный административный округ, район Чертаново Северное, мкр-н Северное Чертаново, 6к602\nЧертановская, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/apartamenty-studiya_10_m_218_et._4601272493?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 45 м², 4/22 эт.",
+    "price": 145000,
+    "price_raw": "145 000 ₽ в месяц",
+    "address": "Живописная ул., 21А\nЩукинская, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_45_m_422_et._2349461979?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. квартира, 45 м², 14/14 эт.",
+    "price": 60000,
+    "price_raw": "60 000 ₽ в месяц",
+    "address": "Халтуринская ул., 10к1\nЧеркизовская, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_45_m_1414_et._8047366326?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "Апартаменты-студия, 19,3 м², 11/16 эт.",
+    "price": 50000,
+    "price_raw": "50 000 ₽ в месяц",
+    "address": "Алтуфьевское ш., 2к1\nВладыкино, до 5 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/apartamenty-studiya_193_m_1116_et._8006740407?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 34,4 м², 13/16 эт.",
+    "price": 59000,
+    "price_raw": "59 000 ₽ в месяц",
+    "address": "Юго-Восточный административный округ, район Кузьминки, Волжский Бульвар квартал 114А, к2\nТекстильщики, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_344_m_1316_et._7976181970?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 30 м², 3/5 эт.",
+    "price": 50000,
+    "price_raw": "50 000 ₽ в месяц",
+    "address": "ул. Багрицкого, 26\nДавыдково, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_30_m_35_et._8104918062?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "Квартира-студия, 19,6 м², 20/25 эт.",
+    "price": 33000,
+    "price_raw": "33 000 ₽ в месяц",
+    "address": "рп. Боброво, Крымская ул., 7\nБутово, от 31 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/kvartira-studiya_196_m_2025_et._7813426381?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://50.img.avito.st/image/1/1.CcQWFLa5sy0gtSctCHhllHe2pyukkSctoL2FL6C3sy8.mf8Q30FdadXduVhFRp0JIKwU2EsfQz20W1ZEbuq1Ae0"
+  },
+  {
+    "title": "1-к. квартира, 42,2 м², 21/25 эт.",
+    "price": 65000,
+    "price_raw": "65 000 ₽ в месяц",
+    "address": "ул. Анны Ахматовой, 8\nРассказовка, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_422_m_2125_et._8150828036?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 30 м², 5/5 эт.",
+    "price": 85000,
+    "price_raw": "85 000 ₽ в месяц",
+    "address": "ул. Пресненский Вал, 23\nУлица 1905 года, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_30_m_55_et._8118283996?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 35 м², 8/12 эт.",
+    "price": 60000,
+    "price_raw": "60 000 ₽ в месяц",
+    "address": "Зелёный пр-т, 26\nПерово, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_35_m_812_et._8034694600?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "1-к. квартира, 70 м², 9/9 эт.",
+    "price": 45000,
+    "price_raw": "45 000 ₽ в месяц",
+    "address": "Хабаровская ул., 9\nЩёлковская, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_70_m_99_et._7976810999?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. апартаменты, 51 м², 12/15 эт.",
+    "price": 15800000,
+    "price_raw": "15 800 000 ₽",
+    "address": "Западный административный округ, район Солнцево, квартал № 3, 6к1\nГоворово, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._apartamenty_51_m_1215_et._8097435875?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://60.img.avito.st/image/1/1.x6Aq1ra5fUkcd-lJKLmOrid3aU-YU-lJnH9LS5x1fUs.9iA1m5pP-ocdtRjs0cJWmE-d8TomL1nV1K2Be1eoalU"
+  },
+  {
+    "title": "Квартира-студия, 20 м², 2/17 эт.",
+    "price": 50000,
+    "price_raw": "50 000 ₽ в месяц",
+    "address": "Тагильская ул., 3к4\nБульвар Рокоссовского, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/kvartira-studiya_20_m_217_et._7740027639?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "3-к. квартира, 74,6 м², 2/17 эт.",
+    "price": 78000,
+    "price_raw": "78 000 ₽ в месяц",
+    "address": "ул. Москворечье, 4к3\nКантемировская, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_746_m_217_et._8059246569?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "Квартира-студия, 19,6 м², 16/25 эт.",
+    "price": 32900,
+    "price_raw": "32 900 ₽ в месяц",
+    "address": "рп. Дрожжино, Южная ул., 3к4\nБутово, 21–30 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/kvartira-studiya_196_m_1625_et._7877233050?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": "https://50.img.avito.st/image/1/1.CcQWFLa5sy0gtSctCHhllHe2pyukkSctoL2FL6C3sy8.mf8Q30FdadXduVhFRp0JIKwU2EsfQz20W1ZEbuq1Ae0"
+  },
+  {
+    "title": "1-к. квартира, 34 м², 2/5 эт.",
+    "price": 39900,
+    "price_raw": "39 900 ₽ в месяц",
+    "address": "Старопетровский пр., 12к3\nВойковская, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_34_m_25_et._8058726932?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  },
+  {
+    "title": "2-к. апартаменты, 76 м², 5/6 эт.",
+    "price": 35000,
+    "price_raw": "35 000 ₽ в месяц",
+    "address": "Кооперативная ул., 4к10\nСпортивная, до 5 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._apartamenty_76_m_56_et._8088171749?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXY2w3YlJ1d1lyenBiMGV4Ijt94QuGoj8AAAA",
+    "img": ""
+  }
+]
