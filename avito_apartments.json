@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "title": "2-к. квартира, 43 м², 3/14 эт.",
+    "price": 110000,
+    "price_raw": "110 000 ₽ в месяц",
+    "address": "Нежинская ул., 9\nМатвеевская, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_43_m_314_et._7460085839?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEc3hFejQ5WlZuSUk3WUJTIjt9y8VjJz8AAAA",
+    "img": "https://30.img.avito.st/image/1/1._n9uzra-UpZ4bvCXHvm_AglvUJDceVaW3B4znNDNUzTbbVA.p3csJTTecb0K8WRNOahJvSJwr07R1Pc56mwky2E4WbY?cqp=2.U5qO8d4CHIiNW2QBtZw-uX6ewmB-LGaDE3-rkUTl5s3E6YkLER2eWpxBXXm-uAtjIUjyebQ7nSoGxTRjJ3W_erzY_jCAaA=="
+  },
+  {
+    "title": "2-к. квартира, 42 м², 21/24 эт.",
+    "price": 120000,
+    "price_raw": "120 000 ₽ в месяц",
+    "address": "ул. Крузенштерна, 7\nСерп и Молот, 16–20 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_42_m_2124_et._8140078289?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJEc3hFejQ5WlZuSUk3WUJTIjt9y8VjJz8AAAA",
+    "img": "https://80.img.avito.st/image/1/1.QGv-h7a-7ILoJ06D8pojXdQn7oRMMOiCTFeNiECE7SBLJO4.4vcB4OnM-yGA3cJVLa8tTWG2js9DYqa3bATpkpFzGHY"
+  }
+]
