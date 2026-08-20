@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "title": "1-к. квартира, 39,9 м², 14/18 эт.",
+    "price": 19500000,
+    "price_raw": "19 500 000 ₽",
+    "address": "Рублёвское ш., 81к1\nМолодёжная, 11–15 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_399_m_1418_et._8220684692?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ0dFdmN1R6alBhb3hpT1RsIjt9lcGkyz8AAAA",
+    "img": "https://30.img.avito.st/image/1/1.uJfEe7a-FH7S27Z_uCmEr9DbFnh2zBB-dqt1dHp4Fdxx2BY.x0rMONe4tqwoTnXx2rAMiCckD8FJmY0fVOcfOeCeniw?cqp=2.6_1L9vhKD2uBLt-qyrAoZheVsuS8u7cVFre6r7a9jrN4_pCIDjlm5anolzs-MLkTK_L9899P2epdVNs="
+  },
+  {
+    "title": "4-к. квартира, 160,3 м², 17/20 эт.",
+    "price": 199500000,
+    "price_raw": "199 500 000 ₽",
+    "address": "Багратионовский пр., 1Ак1\nФили, до 5 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/4-k._kvartira_1603_m_1720_et._8339685739?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ0dFdmN1R6alBhb3hpT1RsIjt9lcGkyz8AAAA",
+    "img": "https://70.img.avito.st/image/1/1.BRnWPLa-qfDAnAvx0CQCWcOcq_Zki63wZOzI-mg_qFJjn6s.UXWOQ0KZmn7teML_0YQZXsC-geCuzfn_pGNzsMQo424"
+  }
+]
