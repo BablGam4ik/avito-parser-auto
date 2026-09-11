@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "title": "1-к. квартира, 34 м², 13/18 эт.",
+    "price": 82000,
+    "price_raw": "82 000 ₽ в месяц",
+    "address": "Нововладыкинский пр., 1к2\nОкружная, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/1-k._kvartira_34_m_1318_et._8200826274?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJoSTh4ekxIRFZqOFpMczhHIjt9wg1hRj8AAAA",
+    "img": "https://10.img.avito.st/image/1/1.VrN0Cba--lpiqVhbVFR3smup-FzGvv5axtmbUMoK-_jBqvg.uJLxYqijGepdaLgoak6lEsZF7ettie88wssKCWjqUgE?cqp=2.6_1L9vhKD2uBLt-qyrAoZheVsuS8u7cVFre6r7a9jrN4_pCIDjlm5anolzs-MLkTK_L9899P2epdVNs="
+  },
+  {
+    "title": "2-к. квартира, 40,4 м², 8/12 эт.",
+    "price": 14300000,
+    "price_raw": "14 300 000 ₽",
+    "address": "Россошанская ул., 7к1 · \n4,2 · 16 отзывов\nУлица академика Янгеля, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/2-k._kvartira_404_m_812_et._8219875859?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJoSTh4ekxIRFZqOFpMczhHIjt9wg1hRj8AAAA",
+    "img": "https://40.img.avito.st/image/1/1.0PQdjLa-fB0LLN4cMevClwAsfhuvO3gdr1wdF6OPfb-oL34.z5GeDzcXiPf8bwyLj-exa3lbCeIRU2H3M9-iK45p9Hw"
+  }
+]
