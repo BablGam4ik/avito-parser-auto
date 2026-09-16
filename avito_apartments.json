@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "title": "3-к. квартира, 100 м², 17/18 эт.",
+    "price": 130000,
+    "price_raw": "130 000 ₽ в месяц",
+    "address": "ул. Намёткина, 11к1\nНовые Черёмушки, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_100_m_1718_et._8272905829?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMGVJQ2xrZENCdVYyNFdPIjt93q0fDj8AAAA",
+    "img": "https://70.img.avito.st/image/1/1.jgpJFba-IuNftYDiWT_mQFW1IOX7oibj-8VD6fcWI0H8tiA.MPs7qtc8YfuaMuuJOywMchWPpQMFosv1lJgSKinhltQ"
+  },
+  {
+    "title": "3-к. квартира, 76 м², 16/17 эт.",
+    "price": 95000,
+    "price_raw": "95 000 ₽ в месяц",
+    "address": "Пятницкое ш., 8\nВолоколамская, 6–10 мин.",
+    "link": "https://www.avito.ru/moskva/kvartiry/3-k._kvartira_76_m_1617_et._8277460483?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJmMGVJQ2xrZENCdVYyNFdPIjt93q0fDj8AAAA",
+    "img": "https://10.img.avito.st/image/1/1.gQ-SALa-LeaEoI_nnEqsL4GgL-AgtynmINBM7CwDLEQnoy8.-xiyOMK2k9LqZaqAsvqeoLDE3DyNmG1u-NtZ6bZ7o0s?cqp=2.6_1L9vhKD2uBLt-qyrAoZheVsuS8u7cVFre6r7a9jrN4_pCIDjlm5anolzs-MLkTK_L9899P2epdVNs="
+  }
+]
